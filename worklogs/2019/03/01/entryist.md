@@ -4,3 +4,4 @@ Added [Inspiration](https://github.com/ArcadeCity/docs/wiki/Inspiration) page to
 
 Created first work log - this one!
 
+![](https://i.ibb.co/vYj0HfQ/play1.png)
