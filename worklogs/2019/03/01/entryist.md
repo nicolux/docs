@@ -6,4 +6,6 @@ Added [Inspiration](https://github.com/ArcadeCity/docs/wiki/Inspiration) page to
 
 Created first work log - this one!
 
-Researched voxel usage in BabylonJS, found and played around with [Cryptovoxels](http://www.html5gamedevs.com/topic/38281-cryptovoxels-an-ethereum-based-virtual-world/), watched a roundtable [chat](https://www.twitch.tv/videos/387351320) of VR developers.
+Researched voxel usage in BabylonJS, found and played around with [Cryptovoxels](http://www.html5gamedevs.com/topic/38281-cryptovoxels-an-ethereum-based-virtual-world/), watched first half of a roundtable [chat](https://www.twitch.tv/videos/387351320) of VR developers.
+
+Started working on realgame's multiplayer proof-of-concept, tying user presence via Pusher websockets to 3D models rendering in Babylon. Got user presence working, console logging user join/leave events with associated user object.
