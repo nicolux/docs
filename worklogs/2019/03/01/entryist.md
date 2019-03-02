@@ -15,8 +15,8 @@ Started working on realgame's multiplayer proof-of-concept, tying user presence 
 	1. 8:50-9:15am - Realgame github repo / new proj setup
 	2. 9:15-9:40am - Server setup and instructions
 	3. 9:45-10:10am - Import babylonJS and render initial grid animation
-	4. 1:55-2:20pm- Babylon voxel learnins
-	5. 2:25-2:50pm - Gunters Unvierse metaverse learnins
+	4. 1:55-2:20pm - Babylon voxel learnins
+	5. 2:25-2:50pm - Gunters Universe metaverse learnins
 	6. 3:10-3:35pm - Broadcasting setup: Pusher, Echo, presence
 	7. 4:01-4:26pm - Auth scaffolding, presence works logging user to console, learning about text
 	8. 9:25-9:50pm - Setup WASD movement and start figuring out mouselook
